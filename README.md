@@ -10,17 +10,17 @@ To summarize, here is what you should found in this repo :
 
 ### PID & PPID :file_folder:
 
-file 0-pid.c - associated to getpid : allow to get the actual process ID for the parent.
-file shell with .sh - prints the max value a PID can be (note : for MacOs, this is very different from other computers), display with cat.
+:small_orange_diamond: - file 0-pid.c - associated to getpid : allow to get the actual process ID for the parent.
+:small_orange_diamond: - file shell with .sh - prints the max value a PID can be (note : for MacOs, this is very different from other computers), display with cat.
 
 ### Arguments :file_folder:
 
-file 1-read_line.c - associated to getline => allow the user to enter a sentence or command and then prints it.
-file 2-split_string.c using strtok (looking like tiktok but actually means string + tokens), which divine a string in many tokens (one for each word of the sentence), associated to a header file called split_string.h and a main, with the main function.
+:small_orange_diamond: file 1-read_line.c - associated to getline => allow the user to enter a sentence or command and then prints it.
+:small_orange_diamond: file 2-split_string.c using strtok (looking like tiktok but actually means string + tokens), which divine a string in many tokens (one for each word of the sentence), associated to a header file called split_string.h and a main, with the main function.
 
 ### Executing a program - Wait - Execve :file_folder:
 
-file 3-fork_wait_exec.c allow to use the ls -l /tmp command which give all the infos of the files and repositories in the repo.
+:small_orange_diamond: file 3-fork_wait_exec.c allow to use the ls -l /tmp command which give all the infos of the files and repositories in the repo.
 
 ## :woman_technologist: Meet the author :woman_technologist: :fr: :
 
