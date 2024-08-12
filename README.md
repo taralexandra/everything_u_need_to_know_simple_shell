@@ -1,4 +1,4 @@
-# Readme file for the project Simple Shell - The Before party.
+# Readme file for the project Simple Shell - The Before party. :checkered_flag: :ledger: :tada:
 
 This file is linked to a ressource given at the start of the project Simple Shell, in order to train ourselves before to make it. This is an introduction.
 
